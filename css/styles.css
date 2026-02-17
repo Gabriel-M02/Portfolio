@@ -270,3 +270,12 @@ main {
         display: flex;
     }
 }
+
+/* footer */
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #1e293b;
+    margin-top: 60px;
+    font-size: 0.9rem;
+}

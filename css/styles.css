@@ -279,3 +279,24 @@ main {
     margin-top: 60px;
     font-size: 0.9rem;
 }
+
+/* Project Status Displays */
+.status-in-progress {
+    color: white;
+    background-color: #f0ad4e; /* Orange/Yellow for warning/in-progress */
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+.status-completed {
+    color: white;
+    background-color: #5cb85c; /* Green for success/completed */
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+.status-new {
+    color: white;
+    background-color: rgb(228, 51, 51); /* Red for new projects */
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
